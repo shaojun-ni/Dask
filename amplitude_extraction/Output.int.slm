@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<slm:datasetInfo xmlns:slm="http://www.shell.com/ep/salamander">
+
+  <slm:mediaType>application/x-sp-2dhorizon</slm:mediaType>
+
+  <slm:dataContent></slm:dataContent>
+
+  <slm:name>BOX20 ZOMDTC KEY FILE OUTPUT FROM SKL and Modified by Matt McDonald</slm:name>
+
+  <slm:description></slm:description>
+
+  <slm:version>3.0.0.0</slm:version>
+
+  <slm:sourceUri>/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm</slm:sourceUri>
+
+  <slm:dataUri>/glb/data/cdis_projects/users/ussnis/ml/Output.int</slm:dataUri>
+
+  <slm:format>1</slm:format>
+
+  <slm:subpointCode>TTTBBB</slm:subpointCode>
+
+  <slm:coordinateReferenceSystem slm:authority="Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: " slm:authorityQuality="authoritative">
+    <slm:spatialReference>urn:ogc:def:crs:EPSG::1241_32066</slm:spatialReference>
+  </slm:coordinateReferenceSystem>
+
+  <slm:verticalCoordinateReferenceSystem slm:authority="Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: " slm:authorityQuality="authoritative">
+    <slm:verticalDomain>SlmTime</slm:verticalDomain>
+    <slm:verticalUnitOfMeasure>ms</slm:verticalUnitOfMeasure>
+    <slm:verticalCoordinateTransform>0</slm:verticalCoordinateTransform>
+    <slm:verticalDatumUnitOfMeasure>ft</slm:verticalDatumUnitOfMeasure>
+    <slm:timeAtDatum>5900</slm:timeAtDatum>
+    <slm:correctionVelocity>0</slm:correctionVelocity>
+  </slm:verticalCoordinateReferenceSystem>
+
+  <slm:people>
+    <slm:person slm:role="editor">ussnis</slm:person>
+  </slm:people>
+
+  <slm:operations>
+    <slm:operation>
+      <slm:timeStamp>365:12:31:19:11:22:20</slm:timeStamp>
+      <slm:description>Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: </slm:description>
+      <slm:person>ussnis</slm:person>
+    </slm:operation>
+  </slm:operations>
+
+  <slm:horizontalCoordinateTransform slm:authority="Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: " slm:authorityQuality="authoritative">
+    <slm:isShell2DSurvey>False</slm:isShell2DSurvey>
+    <slm:coordinateMethod>1</slm:coordinateMethod>
+    <slm:originXAndYInReferenceCRS>
+      <slm:abscissa>1156158.81</slm:abscissa>
+      <slm:ordinate>10153357.49</slm:ordinate>
+    </slm:originXAndYInReferenceCRS>
+    <slm:deltaXEquivIAndYEquivJ>
+      <slm:abscissa>82.021</slm:abscissa>
+      <slm:ordinate>65.6168</slm:ordinate>
+    </slm:deltaXEquivIAndYEquivJ>
+    <slm:numberOfSamplesInIAndJ>
+      <slm:abscissa>4831</slm:abscissa>
+      <slm:ordinate>5797</slm:ordinate>
+    </slm:numberOfSamplesInIAndJ>
+    <slm:rotationAngle slm:unitOfMeasure="degree">-0.0108999999999514</slm:rotationAngle>
+    <slm:inlineIsI>False</slm:inlineIsI>
+    <slm:scaleFactor>1</slm:scaleFactor>
+    <slm:originInIAndJ>
+      <slm:abscissa>2064</slm:abscissa>
+      <slm:ordinate>12690</slm:ordinate>
+    </slm:originInIAndJ>
+    <slm:incrementSampleNoInIAndJ>
+      <slm:abscissa>2</slm:abscissa>
+      <slm:ordinate>1</slm:ordinate>
+    </slm:incrementSampleNoInIAndJ>
+    <slm:verticalSampling>
+      <slm:numberOfSamples>626</slm:numberOfSamples>
+      <slm:firstSampleAt>5900</slm:firstSampleAt>
+      <slm:sampleRate>4</slm:sampleRate>
+    </slm:verticalSampling>
+  </slm:horizontalCoordinateTransform>
+
+  <slm:offsets slm:authority="Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: " slm:authorityQuality="authoritative">
+    <slm:numberOfOffsets>0</slm:numberOfOffsets>
+    <slm:firstOffset>0</slm:firstOffset>
+    <slm:deltaOffset>1</slm:deltaOffset>
+    <slm:offsetDirection>H</slm:offsetDirection>
+    <slm:offsetValues></slm:offsetValues>
+    <slm:wazType></slm:wazType>
+  </slm:offsets>
+
+  <slm:domains/>
+
+  <slm:otherMetadata/>
+
+  <slm:azimuths slm:authority="Created from SpSurvey for SHELL123DI::SpSurvey::/glb/hou/ua.sepco/xdigi/fast_track_projects/Well-Outcome-Predictor/input/horizon_55_15_03_time.int.slm:: " slm:authorityQuality="authoritative">
+    <slm:numberOfAzimuths>0</slm:numberOfAzimuths>
+    <slm:firstAzimuth>0</slm:firstAzimuth>
+    <slm:deltaAzimuth>1</slm:deltaAzimuth>
+    <slm:azimuthValues></slm:azimuthValues>
+  </slm:azimuths>
+
+</slm:datasetInfo>
